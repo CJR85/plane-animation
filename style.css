@@ -22,3 +22,10 @@
   left: 0;
   bottom: 0;
 }
+
+.airplane {
+  width: 500px;
+  position: absolute;
+  bottom: 150px;
+  right: -200px;
+}
