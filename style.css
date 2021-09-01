@@ -13,3 +13,12 @@
   position: relative;
   overflow: hidden;
 }
+
+.runway {
+  height: 200px;
+  width: 100%;
+  background-image: url(images/road.jpg);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
